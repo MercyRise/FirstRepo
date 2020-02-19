@@ -6,5 +6,7 @@ public class Communication {
         System.out.println("Hello There");
 
         System.out.println("Here is my first maven project");
+
+        System.out.println("Change in motion...");
     }
 }
